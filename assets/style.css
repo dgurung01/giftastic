@@ -1,0 +1,32 @@
+/* .button,.div,.form,.input {
+      margin: 10px;
+    } */
+.jumbotron{
+    position: relative;
+    padding:10px !important;
+    margin-top:0px !important;
+    background-color: rgba(82, 232, 229, 0.776) !important;
+    text-align:center !important;
+    margin-bottom: 0 !important;
+}
+/* body{
+    background-image: url("../images/movies.png");
+    background-size: 960, 100 !important;
+} */
+.jumbotron-fluid{
+    background-color: rgba(102, 51, 153, 0.701) !important;
+    color:rgb(218, 170, 170);
+
+}
+.h1{
+    font-family: 'Abril Fatface', cursive;
+
+}
+.buttons{
+    align-content: center !important;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: red;
+
+}
